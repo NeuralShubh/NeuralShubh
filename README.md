@@ -4,9 +4,9 @@
 
 <h1 align="center">Shubham | SHUBIQ</h1>
 
-<p align="center">
-## Connect
-</p>
+<h3 align="center">
+Connect
+</h3>
 
 <p align="center">
   <a href="https://shubiq.vercel.app/">
