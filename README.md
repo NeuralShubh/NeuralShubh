@@ -2,10 +2,10 @@
 <!--        SHUBIQ PROFILE       -->
 <!-- ============================ -->
 
-<h1 align="center">Shubham</h1>
+<h1 align="center">Shubham | SHUBIQ</h1>
 
 <p align="center">
-Founder • SHUBIQ
+## Connect
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@ I build structured digital systems focused on clarity, scalability, and long-ter
 
 SHUBIQ is an evolving ecosystem centered around productivity infrastructure, automation frameworks, and scalable web platforms.
 
-My approach is system-first — structure before features.
+My approach is system-first structure before features.
 
 ---
 
@@ -51,10 +51,6 @@ My approach is system-first — structure before features.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeuralShubh&theme=github_dark" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=NeuralShubh&theme=github-dark&hide_border=true" />
 </p>
 
@@ -69,5 +65,5 @@ Consistency builds scale.
 ---
 
 <p align="center">
-SHUBIQ
+SHUBIQ - Intelligence That Wins
 </p>
