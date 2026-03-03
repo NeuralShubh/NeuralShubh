@@ -1,37 +1,41 @@
 <!-- ===================================== -->
-<!--          SHUBIQ FOUNDER PROFILE       -->
+<!--              SHUBIQ PROFILE           -->
 <!-- ===================================== -->
 
 <h1 align="center">Shubham | SHUBIQ</h1>
 
 <p align="center">
-Building Structured Digital Intelligence
+  <b>Founder • System Architect • AI Builder</b>
 </p>
 
 <p align="center">
-<b>Intelligence That Wins</b>
+  Building Structured Digital Intelligence
+</p>
+
+<p align="center">
+  Intelligence That Wins
 </p>
 
 ---
 
-## 🚀 Founder Vision
+## 🚀 About
 
-I design scalable digital systems built with structure and long-term leverage.
+I build scalable digital ecosystems designed with structure, clarity, and long-term leverage.
 
-Founder of SHUBIQ — an evolving ecosystem focused on intelligent productivity infrastructure, automation frameworks, and system-driven execution.
+Founder of SHUBIQ — focused on intelligent productivity systems, automation frameworks, and execution-driven architecture.
 
-I don’t build random apps.  
-I build structured ecosystems.
+I don’t build projects for practice.  
+I build systems for scale.
 
 ---
 
-## 🏆 Achievement Badges
+## 🏆 Founder Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-SHUBIQ-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Founder-SHUBIQ-black?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/AI-Systems-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Scalable-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Execution-System%20Driven-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Architecture-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System-Driven-black?style=for-the-badge" />
 </p>
 
 ---
@@ -50,17 +54,15 @@ Build products that scale.
 
 ---
 
-## 📊 Performance
+## 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeuralShubh&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
----
-
-## 📈 Contributions
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeuralShubh&theme=github_dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralShubh&layout=compact&hide_border=true&theme=transparent" />
+</p>
 
 ---
 
@@ -70,14 +72,14 @@ Structure creates clarity.
 Clarity drives execution.  
 Execution builds ecosystems.  
 
-Code is temporary.  
-Systems scale.
+Code is implementation.  
+Systems are leverage.
 
 ---
 
 ## 🌐 Connect
 
-Website: https://shubiq.vercel.app  
+Website: https://shubiq.vercel.app/  
 LinkedIn: https://www.linkedin.com/in/neuralshubh/  
 X: https://x.com/NeuralShubh  
 Instagram: https://www.instagram.com/shubham.bnb/
@@ -85,5 +87,5 @@ Instagram: https://www.instagram.com/shubham.bnb/
 ---
 
 <p align="center">
-SHUBIQ — Intelligence That Wins
+  SHUBIQ — Intelligence That Wins
 </p>
