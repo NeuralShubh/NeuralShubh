@@ -1,91 +1,74 @@
-<!-- ===================================== -->
-<!--              SHUBIQ PROFILE           -->
-<!-- ===================================== -->
+<!-- ============================ -->
+<!--        SHUBIQ PROFILE       -->
+<!-- ============================ -->
 
-<h1 align="center">Shubham | SHUBIQ</h1>
+<h1 align="center">Shubham</h1>
 
 <p align="center">
-  <b>Founder • System Architect • AI Builder</b>
+Founder • SHUBIQ
 </p>
 
 <p align="center">
-  Building Structured Digital Intelligence
-</p>
-
-<p align="center">
-  Intelligence That Wins
-</p>
-
----
-
-## 🚀 About
-
-I build scalable digital ecosystems designed with structure, clarity, and long-term leverage.
-
-Founder of SHUBIQ — focused on intelligent productivity systems, automation frameworks, and execution-driven architecture.
-
-I don’t build projects for practice.  
-I build systems for scale.
-
----
-
-## 🏆 Founder Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Founder-SHUBIQ-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/AI-Systems-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automation-Architecture-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System-Driven-black?style=for-the-badge" />
+  <a href="https://shubiq.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-SHUBIQ-black?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/neuralshubh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-black?style=for-the-badge">
+  </a>
+  <a href="https://x.com/NeuralShubh">
+    <img src="https://img.shields.io/badge/X-Connect-black?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
-## 🏗 SHUBIQ Ecosystem
-
-• Productivity Infrastructure  
-• Microfinance Management Platform  
-• AI Experiment Lab  
-• Automation Systems  
-• Scalable Web Applications  
-
-Vision:  
-Create systems that think.  
-Build products that scale.
-
----
-
-## 📊 GitHub Overview
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeuralShubh&show_icons=true&hide_border=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralShubh&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+Structured+Digital+Products;System-Driven+Architecture;Scalable+Application+Design" />
 </p>
 
 ---
 
-## 🧩 Philosophy
+## About
 
-Structure creates clarity.  
-Clarity drives execution.  
-Execution builds ecosystems.  
+I build structured digital systems focused on clarity, scalability, and long-term usability.
 
-Code is implementation.  
-Systems are leverage.
+SHUBIQ is an evolving ecosystem centered around productivity infrastructure, automation frameworks, and scalable web platforms.
+
+My approach is system-first — structure before features.
 
 ---
 
-## 🌐 Connect
+## SHUBIQ Focus Areas
 
-Website: https://shubiq.vercel.app/  
-LinkedIn: https://www.linkedin.com/in/neuralshubh/  
-X: https://x.com/NeuralShubh  
-Instagram: https://www.instagram.com/shubham.bnb/
+• Productivity Systems  
+• Automation Workflows  
+• Application Architecture  
+• Execution Frameworks  
+• Structured Product Design  
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NeuralShubh&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralShubh&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NeuralShubh&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## Philosophy
+
+Structure reduces friction.  
+Clarity improves execution.  
+Consistency builds scale.
 
 ---
 
 <p align="center">
-  SHUBIQ — Intelligence That Wins
+SHUBIQ
 </p>
