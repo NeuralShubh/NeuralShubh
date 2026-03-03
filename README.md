@@ -1,6 +1,6 @@
-<!-- =============================== -->
-<!--         SHUBIQ FOUNDER         -->
-<!-- =============================== -->
+<!-- ===================================== -->
+<!--          SHUBIQ FOUNDER PROFILE       -->
+<!-- ===================================== -->
 
 <h1 align="center">Shubham | SHUBIQ</h1>
 
@@ -16,11 +16,11 @@ Building Structured Digital Intelligence
 
 ## 🚀 Founder Vision
 
-I design scalable digital systems.
+I design scalable digital systems built with structure and long-term leverage.
 
 Founder of SHUBIQ — an evolving ecosystem focused on intelligent productivity infrastructure, automation frameworks, and system-driven execution.
 
-I don't build random apps.
+I don’t build random apps.  
 I build structured ecosystems.
 
 ---
@@ -28,10 +28,10 @@ I build structured ecosystems.
 ## 🏆 Achievement Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-SHUBIQ-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Systems-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Scalable-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Execution-System%20Driven-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Founder-SHUBIQ-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Systems-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable-1a1a1a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Execution-System%20Driven-222222?style=for-the-badge" />
 </p>
 
 ---
@@ -44,8 +44,8 @@ I build structured ecosystems.
 • Automation Systems  
 • Scalable Web Applications  
 
-Vision:
-Create systems that think.
+Vision:  
+Create systems that think.  
 Build products that scale.
 
 ---
@@ -66,9 +66,9 @@ Build products that scale.
 
 Structure creates clarity.  
 Clarity drives execution.  
-Execution builds ecosystems.
+Execution builds ecosystems.  
 
-Code is temporary.
+Code is temporary.  
 Systems scale.
 
 ---
@@ -76,8 +76,8 @@ Systems scale.
 ## 🌐 Connect
 
 Website: https://shubiq.vercel.app  
-LinkedIn: (add link)  
-X: (add link)
+LinkedIn: (Add your link)  
+X: (Add your link)
 
 ---
 
