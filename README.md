@@ -28,10 +28,10 @@ I build structured ecosystems.
 ## 🏆 Achievement Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founder-SHUBIQ-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Systems-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Scalable-1a1a1a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Execution-System%20Driven-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Founder-SHUBIQ-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Systems-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Execution-System%20Driven-black?style=for-the-badge" />
 </p>
 
 ---
@@ -50,15 +50,17 @@ Build products that scale.
 
 ---
 
-## 📊 Performance & Activity
+## 📊 Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeuralShubh&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NeuralShubh&show_icons=true&hide_border=true&theme=transparent" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeuralShubh&theme=github-dark&hide_border=true"/>
-</p>
+---
+
+## 📈 Contributions
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeuralShubh&theme=github_dark" />
 
 ---
 
@@ -76,8 +78,9 @@ Systems scale.
 ## 🌐 Connect
 
 Website: https://shubiq.vercel.app  
-LinkedIn: (Add your link)  
-X: (Add your link)
+LinkedIn: https://www.linkedin.com/in/neuralshubh/  
+X: https://x.com/NeuralShubh  
+Instagram: https://www.instagram.com/shubham.bnb/
 
 ---
 
