@@ -55,8 +55,7 @@ My approach is system-first — structure before features.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NeuralShubh&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NeuralShubh&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=NeuralShubh&theme=github-dark&hide_border=true" />
 </p>
 
 ---
