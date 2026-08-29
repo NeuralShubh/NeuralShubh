@@ -2,7 +2,7 @@
 <!--        SHUBIQ PROFILE       -->
 <!-- ============================ -->
 
-<h1 align="center">Shubham | SHUBIQ</h1>
+<h1 align="center">Shubham | NexGravision</h1>
 
 <h3 align="center">
 Connect
@@ -32,13 +32,13 @@ Connect
 
 I build structured digital systems focused on clarity, scalability, and long-term usability.
 
-SHUBIQ is an evolving ecosystem centered around productivity infrastructure, automation frameworks, and scalable web platforms.
+NexGravision is an evolving ecosystem centered around productivity infrastructure, automation frameworks, and scalable web platforms.
 
 My approach is system-first structure before features.
 
 ---
 
-## SHUBIQ Focus Areas
+## NexGravision Focus Areas
 
 • Productivity Systems  
 • Automation Workflows  
